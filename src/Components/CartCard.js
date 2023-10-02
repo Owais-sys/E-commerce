@@ -20,8 +20,8 @@ export const CartCard = ({ data }) => {
   };
 
   return (
-    <div className="container m-4 ">
-      <div className="row custom-row2  mx-5 mb-3">
+    <div className="container m-auto">
+      <div className="row custom-row2  mx-5 my-4">
         <div className="col-4">
           <img className="img" variant="top" src={data.image}></img>
         </div>

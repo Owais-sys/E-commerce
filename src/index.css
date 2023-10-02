@@ -1,111 +1,116 @@
-.bttn{
-    margin-left: 60px;
-    font-size:large;
+.bttn {
+  margin-left: 60px;
+  font-size: large;
 }
-.cards{
-    margin: 20px;
-    min-height: 380px;
-    align-content: space-around;
-  }
- 
- .container{
-   align-content: center;
-   text-align: center; }
- 
- .heading{
-   text-align: center;
-   padding-top: 25px;
-  
- }
- 
- .image{
-   height: 120px;
-   max-width: 120px;
- }
- 
- .title{
-   font-size: large;
-   font-weight: 500;
+.cards {
+  margin: 20px;
+  min-height: 380px;
+  align-content: space-around;
+}
 
- }
- 
- .main{
-   background-color: whitesmoke;
-   min-height: 80vh;
- }
+.container {
+  align-content: space-around;
+  text-align: center;
+}
 
- .img{
+.heading {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 20px;
+}
+
+.image {
+  height: 120px;
+  max-width: 120px;
+}
+
+.title {
+  font-size: large;
+  font-weight: 500;
+}
+
+.main {
+  background-color: whitesmoke;
+  min-height: 80vh;
+}
+
+.img {
   max-height: 150px;
   max-width: 150px;
   margin: 20px;
 }
 
-.btnn{
+.btnn {
   margin-left: 160px;
   margin-bottom: 20px;
 }
 
-.Footer{
+.Footer {
   margin-top: auto;
   background-color: black;
   text-align: center;
   color: azure;
 }
 
-.custom-row{
+.custom-row {
   border-radius: 10px;
   background-color: white;
   align-items: center;
 }
 
-.custom-row2{
+.custom-row2 {
   border-radius: 10px;
   background-color: white;
   align-items: center;
-  }
+}
 
- .desc{
+.desc {
   text-align: left;
- }
+}
 
- .Row1{
+.Row1 {
   background-color: whitesmoke;
- }
+}
 
-.box{
+.box {
   color: black;
 }
- 
-.loading{
+
+.loading {
   margin-top: 37vh;
   margin-bottom: 40vh;
   text-align: center;
 }
 
-.qty{
+.qty {
   display: flex;
   flex-direction: row;
 }
 
-.donebtn{
+.donebtn {
   margin-left: 177vh;
 }
 
-.totalcart{
+.totalcart {
   margin-left: 60px;
   margin-right: 60px;
   margin-top: 80px;
   margin-bottom: 40px;
 }
 
-.title{
+.title {
   font-size: medium;
 }
 
-.cardtext{
+.cardtext {
   text-align: end;
 }
 
-.trow{
+.trow {
   margin-bottom: 50px;
+}
+
+.history {
+  border: 2px solid black;
+  align-content: space-around;
 }
